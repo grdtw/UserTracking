@@ -1,13 +1,16 @@
 # UserTracking
 
 This app is to help developers to create a user tracking app. Send lat/long of device continously to backend.
-Database: Use firebase storage to manage particular user lat/long
+
+**Database:** Firebase Storage
 
 **Important:**
 
-MobTracking:
+**MobTracking:**
 
 UserTracking app and MobTracking are two apps one used to get user current location and other is used to show its location
+
+GitHub Link: https://github.com/rkk001/MobTrack
 
 **Purpose:**
 
